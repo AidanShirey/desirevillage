@@ -1,0 +1,50 @@
+.home {
+  position: relative;
+  width: 5rem;
+  height: 4rem;
+  background-color: moccasin;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.homedoor {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  width: 1.5rem;
+  height: 2rem;
+  background-color: saddlebrown;
+}
+
+.homewindowleft {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-200%, 0%);
+  width: 1rem;
+  height: 1rem;
+  background-color: lightblue;
+}
+
+.homewindowright {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(100%, 0%);
+  width: 1rem;
+  height: 1rem;
+  background-color: lightblue;
+}
+
+.homedoor::after {
+  position: absolute;
+  content: "";
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(110%, 25%);
+  width: 0.25rem;
+  height: 0.25rem;
+  background-color: goldenrod;
+}
