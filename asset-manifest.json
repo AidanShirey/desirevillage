@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/desirevillage/static/css/main.073c9b0a.css",
-    "main.js": "/desirevillage/static/js/main.211047bd.js",
+    "main.css": "/desirevillage/static/css/main.477601b5.css",
+    "main.js": "/desirevillage/static/js/main.5b810598.js",
     "static/js/787.6ed066bc.chunk.js": "/desirevillage/static/js/787.6ed066bc.chunk.js",
-    "static/media/logo.svg": "/desirevillage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/desirevillage/index.html",
-    "main.073c9b0a.css.map": "/desirevillage/static/css/main.073c9b0a.css.map",
-    "main.211047bd.js.map": "/desirevillage/static/js/main.211047bd.js.map",
+    "main.477601b5.css.map": "/desirevillage/static/css/main.477601b5.css.map",
+    "main.5b810598.js.map": "/desirevillage/static/js/main.5b810598.js.map",
     "787.6ed066bc.chunk.js.map": "/desirevillage/static/js/787.6ed066bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.211047bd.js"
+    "static/css/main.477601b5.css",
+    "static/js/main.5b810598.js"
   ]
 }
