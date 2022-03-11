@@ -3,10 +3,13 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  text-decoration: none;
 }
 
 .destinationname {
   margin-top: 0.5rem;
   font-size: 1.2rem;
+  color: whitesmoke;
   font-weight: bold;
+  text-decoration: none;
 }
